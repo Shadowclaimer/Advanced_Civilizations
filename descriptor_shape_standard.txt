@@ -234,3 +234,9 @@ descriptor_shape_standard
 	[ADJ:bear cut]
 	[GEMS_USE_ADJ]
 	[TILE:4]
+
+[SHAPE:LIGHTNING_BOLT_CUT_GEM]
+	[NAME:gem:gems]
+	[ADJ:lightning bolt cut]
+	[GEMS_USE_ADJ]
+	[TILE:4]
